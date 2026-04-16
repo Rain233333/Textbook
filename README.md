@@ -1,2 +1,2 @@
 # Textbook
-College Physics Textbook
+*College Physics Textbook*
